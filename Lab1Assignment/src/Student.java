@@ -1,3 +1,4 @@
 public class Student {
-    public String Name;
+    public String SurName;
+    public Float GPA;
 }
