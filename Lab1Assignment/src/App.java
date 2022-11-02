@@ -1,5 +1,10 @@
 public class App {
-    public static void main(String[] args) throws Exception {
+
+    public static void HelloWord() {
         System.out.println("Hello, World!");
+    }
+
+    public static void main(String[] args) throws Exception {
+        HelloWord();
     }
 }
